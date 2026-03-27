@@ -2,10 +2,10 @@ package ejercicio.d;
 
 public class EjercicioD {
     public static void main(String[] args) {
-        final int A = 7;   //multiplicar a
-        final int C = 2;   //incremento c
-        final int M = 16;  //modulo m
-        int x = 4;         //semilla X0
+        final int A = 22695477;   //multiplicar a
+        final int C = 1;   //incremento c
+        final int M = 65536;  //modulo m
+        int x = 10;         //semilla X0
         
         //inicializamos los parametros formula Xn+1=(aXn + c) mod m
 
